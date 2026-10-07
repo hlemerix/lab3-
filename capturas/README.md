@@ -1,3 +1,4 @@
+
 **Universidad Tecnológica de Panamá**
 **Facultad de Sistemas Computacionales**
 **licenciatura en Ciberseguridad**
@@ -9,7 +10,6 @@
 # Laboratorio #3: Sistema de Registro de Aspirantes
 
 Formulario web de registro de aspirantes desarrollado en **PHP** y **Bootstrap 5**, con menú, migas de pan y pie de página modulares mediante `include`.
-
 ## Características
 
 - Formulario con nombre, apellido, identificación, fecha de nacimiento, sexo y fotografía.
@@ -79,19 +79,19 @@ PHP
 ## Capturas del laboratorio completado
 
 ### Formulario de registro
-![Formulario de registro de aspirantes](capturas/capturas/formulario.png)
+![Formulario de registro de aspirantes](capturas/formulario.png)
 
 ### Registro exitoso
-![Aspirante registrado correctamente](capturas/capturas/registro-exitoso.png)
+![Aspirante registrado correctamente](capturas/registro-exitoso.png)
 
 ### Foto guardada en uploaded_files
-![Foto guardada en la carpeta uploaded_files](capturas/capturas/foto-guardada.png)
+![Foto guardada en la carpeta uploaded_files](capturas/foto-guardada.png)
 
 ### Validación de extensión
-![Error por extensión no permitida](capturas/capturas/error-extension.png)
+![Error por extensión no permitida](capturas/error-extension.png)
 
 ### Validación de datos
-![Error de validación](capturas/capturas/error-validacion.png)
+![Error de validación](capturas/error-validacion.png)
 
 ### Estandarización de salidas
-![Nombre y apellido en formato título](capturas/capturas/estandarizacion.png)
+![Nombre y apellido en formato título](capturas/estandarizacion.png)
