@@ -36,7 +36,7 @@ Formulario web de registro de aspirantes desarrollado en **PHP** y **Bootstrap 5
 
 ## Estructura del proyecto
 
-```
+```text
 laboratorio3/
 ├── includes/
 │   ├── header.php      # Metadatos, navbar y breadcrumb dinámico
@@ -47,7 +47,14 @@ laboratorio3/
 ├── .gitignore
 ├── index.php           # Formulario de registro
 ├── procesar.php        # Validación, procesamiento y resultado
-└── README.md
+├── README.md
+└── capturas/
+    ├── formulario.png
+    ├── registro-exitoso.png
+    ├── foto-guardada.png
+    ├── error-extension.png
+    ├── error-validacion.png
+    └── estandarizacion.png
 ```
 
 ## Requisitos
@@ -70,28 +77,28 @@ laboratorio3/
 
 ## Tecnologías
 
-PHP 
-· HTML5 
-· Bootstrap 5.3.8 
-· Apache (WAMP) 
-· Git y GitHub
+- PHP
+- HTML5
+- Bootstrap 5.3.8
+- Apache (WAMP)
+- Git y GitHub
 
 ## Capturas del laboratorio completado
 
 ### Formulario de registro
-![Formulario de registro de aspirantes](capturas/capturas/formulario.png)
+![Formulario de registro de aspirantes](capturas/formulario.png)
 
 ### Registro exitoso
-![Aspirante registrado correctamente](capturas/capturas/registro-exitoso.png)
+![Aspirante registrado correctamente](capturas/registro-exitoso.png)
 
 ### Foto guardada en uploaded_files
-![Foto guardada en la carpeta uploaded_files](capturas/capturas/foto-guardada.png)
+![Foto guardada en la carpeta uploaded_files](capturas/foto-guardada.png)
 
 ### Validación de extensión
-![Error por extensión no permitida](capturas/capturas/error-extension.png)
+![Error por extensión no permitida](capturas/error-extension.png)
 
 ### Validación de datos
-![Error de validación](capturas/capturas/error-validacion.png)
+![Error de validación](capturas/error-validacion.png)
 
 ### Estandarización de salidas
-![Nombre y apellido en formato título](capturas/capturas/estandarizacion.png)
+![Nombre y apellido en formato título](capturas/estandarizacion.png)
