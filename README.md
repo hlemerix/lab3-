@@ -1,3 +1,4 @@
+
 **Universidad Tecnológica de Panamá**
 **Facultad de Sistemas Computacionales**
 **licenciatura en Ciberseguridad**
@@ -9,7 +10,6 @@
 # Laboratorio #3: Sistema de Registro de Aspirantes
 
 Formulario web de registro de aspirantes desarrollado en **PHP** y **Bootstrap 5**, con menú, migas de pan y pie de página modulares mediante `include`.
-
 ## Características
 
 - Formulario con nombre, apellido, identificación, fecha de nacimiento, sexo y fotografía.
@@ -36,7 +36,7 @@ Formulario web de registro de aspirantes desarrollado en **PHP** y **Bootstrap 5
 
 ## Estructura del proyecto
 
-```text
+```
 laboratorio3/
 ├── includes/
 │   ├── header.php      # Metadatos, navbar y breadcrumb dinámico
@@ -47,14 +47,7 @@ laboratorio3/
 ├── .gitignore
 ├── index.php           # Formulario de registro
 ├── procesar.php        # Validación, procesamiento y resultado
-├── README.md
-└── capturas/
-    ├── formulario.png
-    ├── registro-exitoso.png
-    ├── foto-guardada.png
-    ├── error-extension.png
-    ├── error-validacion.png
-    └── estandarizacion.png
+└── README.md
 ```
 
 ## Requisitos
@@ -77,11 +70,11 @@ laboratorio3/
 
 ## Tecnologías
 
-- PHP
-- HTML5
-- Bootstrap 5.3.8
-- Apache (WAMP)
-- Git y GitHub
+PHP 
+· HTML5 
+· Bootstrap 5.3.8 
+· Apache (WAMP) 
+· Git y GitHub
 
 ## Capturas del laboratorio completado
 
