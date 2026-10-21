@@ -1,6 +1,5 @@
 
-**Universidad Tecnológica de Panamá**
-**Facultad de Sistemas Computacionales**
+# Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales
 **licenciatura en Ciberseguridad**
 **Estudiante:** Hanna Licona
 **Grupo:** 1S3122
