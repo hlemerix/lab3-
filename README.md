@@ -1,10 +1,4 @@
 
-# Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales
-**licenciatura en Ciberseguridad**
-**Estudiante:** Hanna Licona
-**Grupo:** 1S3122
-**Profesora:** Ing. Irina Fong
-**Fecha de entrega:** 2 de octubre de 2026
 
 # Laboratorio #3: Sistema de Registro de Aspirantes
 
@@ -94,3 +88,11 @@ PHP
 
 ### Estandarización de salidas
 ![Nombre y apellido en formato título](capturas/capturas/estandarizacion.png)
+
+# Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales
+**licenciatura en Ciberseguridad**
+**Estudiante:** Hanna Licona
+**Grupo:** 1S3122
+**Profesora:** Ing. Irina Fong
+**Fecha de entrega:** 2 de octubre de 2026
+
